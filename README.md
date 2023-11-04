@@ -11,3 +11,10 @@ Whatsapp clone android app coded in Java. The app uses firebase for authenticati
 
 Download the project either by git clone or download and extract the zip, then load the project in your android studio. You are free to do the modifications as your wish
 You can even directly try app by installing in your phone, the apk file is in "releases" folder, or you can get it by <a href="https://github.com/gtiwari912/Whatsapp-Clone/blob/master/app/release/app-release.apk">clicking here.</a> 
+
+# Source
+
+Source at GitHub: https://github.com/molecules03/Whatsapp-Clone
+
+Upgraded to Gradle 8.12 and dependencies by AndroidCrypto
+
