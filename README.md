@@ -17,4 +17,6 @@ You can even directly try app by installing in your phone, the apk file is in "r
 Source at GitHub: https://github.com/molecules03/Whatsapp-Clone
 
 Upgraded to Gradle 8.12 and dependencies by AndroidCrypto
+q2@q.com
 
+The app is working but difficult to a find a user. Second: new chats don't go on first position
